@@ -1,0 +1,1 @@
+# nuxt-spa-tailwind-purge
